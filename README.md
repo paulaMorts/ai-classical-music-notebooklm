@@ -62,7 +62,6 @@ This section documents prompt engineering experiments performed using NotebookLM
 ### Files
 
 - [Prompt Tests](prompts/prompt-tests.md)
-- [Reusable Prompts](prompts/reusable-prompts.md)
 
 ### Focus Areas
 
