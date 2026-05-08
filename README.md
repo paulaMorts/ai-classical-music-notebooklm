@@ -28,11 +28,13 @@ Sources → NotebookLM → Prompt Engineering → Contextual Synthesis → Knowl
 
 This repository includes multimodal learning resources generated during the study process:
 
-- [Mind maps for semantic organization](NotebookLM_Mind Map.png)
+- [Mind maps for semantic organization](NotebookLM_Mind_Map.png)
 - [AI-generated audio summaries](Audio_Overview_Classical_masterpieces_born_from_absolute_misery.m4a)
-- [Prompt engineering documentation](Prompt_01.png, Prompt_02.png,Prompt_03.png)
+- [Prompt 01 engineering documentation](Prompt_01.png)
+- [Prompt 02 engineering documentation](Prompt_02.png)
+- [Prompt 03 engineering documentation](Prompt_03.png)
 - [Study presentation slides](Slide_Deck_The_Architect_s_Score.pdf)
-- [Historical synthesis notes](Masters of the Score_ Composers and Their Creative Legacies.docx)
+- [Historical synthesis notes](Masters_of_the_Score_Composers_and_Their_Creative_Legacies.docx)
 
 ---
 
